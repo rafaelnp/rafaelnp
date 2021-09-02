@@ -46,4 +46,4 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="left">This README file is based on the generated one by <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">"Github Profile README Generator"</a>.</p>
+<p align="left">This README file is based on the generated one by <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">Github Profile README Generator</a>.</p>
