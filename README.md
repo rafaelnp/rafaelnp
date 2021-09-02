@@ -44,3 +44,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p align="left">This README file is based on the generated one by <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">"Github Profile README Generator"</a>.</p>
